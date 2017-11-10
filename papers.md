@@ -60,4 +60,4 @@ https://www.nature.com/nature/journal/vaop/ncurrent/full/nature24489.html
 Excellent comparion review on scRNAseq methods
 [scrnaseq_method_review]
 
-[schrnaseq method review]:https://github.com/srithegreat/lifebytes_singlecell/blob/master/ziegenhain2017.pdf
+[scrnaseq method review]: https://github.com/srithegreat/lifebytes_singlecell/blob/master/ziegenhain2017.pdf
