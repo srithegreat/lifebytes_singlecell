@@ -55,3 +55,9 @@ https://arxiv.org/pdf/1704.01379.pdf
 
 A single-cell survey of the small intestinal epithelium
 https://www.nature.com/nature/journal/vaop/ncurrent/full/nature24489.html
+
+
+Excellent comparion review on scRNAseq methods
+[scrnaseq_method_review]
+
+[schrnaseq method review]:https://github.com/srithegreat/lifebytes_singlecell/blob/master/ziegenhain2017.pdf
