@@ -10,3 +10,8 @@ Check the Single_cell_sequencing.pptx
 
 # Web-based single cell pipeline
 GRANATUM (http://ilab.hawaii.edu:8101)
+
+# Single cell data repos from Hemberg lab and published papers
+https://hemberg-lab.github.io/scRNA.seq.datasets/
+## scRNASeqdb
+https://bioinfo.uth.edu/scrnaseqdb/
