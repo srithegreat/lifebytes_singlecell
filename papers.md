@@ -5,11 +5,13 @@ https://github.com/seandavi/awesome-single-cell
 
 
 # Some recent papers links
+
 Computational approaches for interpreting scRNA‐seq data
 https://www.ncbi.nlm.nih.gov/pubmed/28524227
 
 A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications.
 https://www.ncbi.nlm.nih.gov/pubmed/28821273
+
 This is a very nice review on various steps to be taken for analysis with links to references for further reading.
 
 
