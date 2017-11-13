@@ -19,3 +19,8 @@ https://hemberg-lab.github.io/scRNA.seq.datasets/
 https://bioinfo.uth.edu/scrnaseqdb/
 
 [Single_cell_sequencing.pptx]: https://github.com/srithegreat/lifebytes_singlecell/blob/master/SingleCell_Sequencing.pptx
+
+
+## R Toolkit for single cell RNA-Seq
+### SEURAT
+http://satijalab.org/seurat/
