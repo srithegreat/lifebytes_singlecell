@@ -61,3 +61,8 @@ Excellent comparion review on scRNAseq methods
 [scrnaseq] 
 
 [scrnaseq] : https://github.com/srithegreat/lifebytes_singlecell/blob/master/ziegenhain2017.pdf
+
+The potential of single-cell profiling in plants.
+https://www.ncbi.nlm.nih.gov/pubmed/27048384
+
+
