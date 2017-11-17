@@ -55,3 +55,14 @@ https://arxiv.org/pdf/1704.01379.pdf
 
 A single-cell survey of the small intestinal epithelium
 https://www.nature.com/nature/journal/vaop/ncurrent/full/nature24489.html
+
+
+Excellent comparion review on scRNAseq methods
+[scrnaseq] 
+
+[scrnaseq] : https://github.com/srithegreat/lifebytes_singlecell/blob/master/ziegenhain2017.pdf
+
+The potential of single-cell profiling in plants.
+https://www.ncbi.nlm.nih.gov/pubmed/27048384
+
+

@@ -21,6 +21,13 @@ https://bioinfo.uth.edu/scrnaseqdb/
 
 [Single_cell_sequencing.pptx]: https://github.com/srithegreat/lifebytes_singlecell/blob/master/SingleCell_Sequencing.pptx
 
+
 ## [xCell]
 xCell: digitally portraying the tissue cellularheterogeneity landscape
 [xcell]: https://github.com/srithegreat/lifebytes_singlecell/blob/master/Aran_et_al-2017-Genome_Biology.pdf
+
+
+## R Toolkit for single cell RNA-Seq
+### SEURAT
+http://satijalab.org/seurat/
+
