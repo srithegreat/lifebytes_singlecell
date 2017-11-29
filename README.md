@@ -31,3 +31,5 @@ xCell: digitally portraying the tissue cellularheterogeneity landscape
 ### SEURAT
 http://satijalab.org/seurat/
 
+## Moore's Law in Single Cell
+https://arxiv.org/pdf/1704.01379.pdf
